@@ -1,0 +1,10 @@
+Package: LinearRegressionPackage
+Type: Package
+Title: Pacakge computes the linear regression model
+Version: 1.0
+Date: 2020-09-16
+Author: Zoe Patton, Jakob Fjellstrom
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 7.1.1
